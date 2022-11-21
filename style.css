@@ -1,0 +1,31 @@
+body{
+      background-image:url(/background.jpg) ;
+      background-size: cover;
+      text-align: center;
+      height: 100vh;
+}
+.first{
+color:pink;
+
+}
+
+button{
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    color: black;
+    background-color:orange ;
+}
+#save-btn{
+    background-color: bisque;
+    margin-top: 1ch;
+    font-weight: bolder;
+}
+#reset-btn{
+   margin-top: 1ch;
+    background-color: green;
+    font-weight: bold;
+}
+.second{background-color: blueviolet;
+}
